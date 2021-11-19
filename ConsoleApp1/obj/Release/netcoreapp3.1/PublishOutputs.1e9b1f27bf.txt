@@ -1,0 +1,10 @@
+C:\Users\801219\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\ConsoleApp1.exe
+C:\Users\801219\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\ConsoleApp1.dll
+C:\Users\801219\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\ConsoleApp1.deps.json
+C:\Users\801219\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\ConsoleApp1.runtimeconfig.json
+C:\Users\801219\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\ConsoleApp1.pdb
+C:\Users\801219\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\Flurl.dll
+C:\Users\801219\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\Flurl.Http.dll
+C:\Users\801219\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\Flurl.Http.Xml.dll
+C:\Users\801219\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\Users\801219\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\SonarQube.Net.dll
